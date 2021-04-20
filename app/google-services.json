@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "35037243984",
+    "project_id": "popcorn-5a596",
+    "storage_bucket": "popcorn-5a596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35037243984:android:5d8a7ad620cce929913f55",
+        "android_client_info": {
+          "package_name": "com.example.neeraj.ticketsnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35037243984-ldt2f0b3vr3ghf4d7s019edql2hu0590.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neeraj.ticketsnew",
+            "certificate_hash": "856495be37c0faeec27808c936d125bf05b7339a"
+          }
+        },
+        {
+          "client_id": "35037243984-pck76r9soe750bf94nnr5tg708phl96v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4eSA7Om8PqtV99Mk5tCL4x9J7LspOWC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35037243984-pck76r9soe750bf94nnr5tg708phl96v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
