@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Cinema</string>
+    <string name="app_name">Movie Booking</string>
     <string name="title_activity_login">Sign in</string>
 
     <!-- Strings related to login -->
@@ -11,10 +11,11 @@
     <string name="error_invalid_password">This password is too short</string>
     <string name="error_incorrect_password">This password is incorrect</string>
     <string name="error_field_required">This field is required</string>
+    <string name="heading">New Releases \n Book Now!</string>
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
-    <string name="title_activity_main">Cinema</string>
+    <string name="title_activity_main">Book a Movie!</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>

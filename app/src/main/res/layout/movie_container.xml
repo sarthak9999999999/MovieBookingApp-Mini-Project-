@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        app:cardElevation="16dp"
+        android:layout_marginTop="30dp"
+        app:cardCornerRadius="12dp"
+        app:cardBackgroundColor="#EFE9E9">
+
+
+        <ImageView
+            android:id="@+id/movie_image"
+            android:layout_width="match_parent"
+            android:layout_height="290dp"
+            android:scaleType="centerCrop">
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="300dp"
+            android:text="Movie Name"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:paddingLeft="12dp"
+            android:layout_marginRight="70dp"
+            android:paddingTop="12dp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/descrp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="350dp"
+            android:text="Description of movie"
+            android:paddingLeft="12dp">
+
+        </TextView>
+
+
+        <Button
+            android:id="@+id/book_btn"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="310dp"
+            android:layout_marginLeft="320dp"
+            android:text="Book Now"
+            android:background="#37EF45">
+
+        </Button>
+
+
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

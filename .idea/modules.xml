@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidStudio-MovieTicketBooking-master.iml" filepath="$PROJECT_DIR$/AndroidStudio-MovieTicketBooking-master.iml" group="AndroidStudio-MovieTicketBooking-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/AndroidStudio-MovieTicketBooking-master-app.iml" filepath="$PROJECT_DIR$/app/AndroidStudio-MovieTicketBooking-master-app.iml" group="AndroidStudio-MovieTicketBooking-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-AndroidStudio-MovieTicketBooking-master.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-AndroidStudio-MovieTicketBooking-master.iml" group="AndroidStudio-MovieTicketBooking-master" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AndroidStudio-MovieTicketBooking-master/app" />
     </modules>
   </component>

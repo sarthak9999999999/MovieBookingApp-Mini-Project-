@@ -6,6 +6,11 @@
             android:id="@+id/home"
             android:icon="@drawable/home"
             android:title="Home" />
+
+        <item
+            android:id="@+id/getmoviesfromdb"
+            android:icon="@drawable/ic_local_movies_black_24dp"
+            android:title="See all released movies"/>
         <item
             android:id="@+id/book"
             android:icon="@drawable/book"
